@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Analytical professional with expertise in SQL, Tableau, and Power BI to transform complex data into actionable strategic insights. I
+possess a strong background in operations and customer service, specializing in workflow optimization and collaborative
+problem-solving to drive business efficiency. Dedicated to continuous learning, I excel at delivering data-driven solutions within dynamic,
+cross-functional environments.
 <!--
 **bpfulling88/bpfulling88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
